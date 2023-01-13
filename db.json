@@ -1,88 +1,81 @@
 {
-  "pokemon": [
+  "robots": [
     {
       "id": 1,
-      "name": "bulbasaur",
-      "hp": 40,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      "name": "caston",
+      "level": 40,
+      "url": "https://robohash.org/caston",
+      "bio": "We are all like the bright moon, we still have our darker side."
     },
     {
       "id": 2,
-      "name": "ivysaur",
-      "hp": 60,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+      "name": "ana",
+      "level": 60,
+      "url": "https://robohash.org/ana",
+      "bio": "The future depends on what you do today."
     },
     {
       "id": 3,
-      "name": "venusaur",
-      "hp": 80,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
+      "name": "jowel",
+      "level": 20,
+      "url": "https://robohash.org/jowel",
+      "bio": "Small men think they are small; great men never know they are great."
     },
     {
       "id": 4,
-      "name": "charmander",
-      "hp": 39,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+      "name": "ann",
+      "level": 10,
+      "url": "https://robohash.org/ann",
+      "bio": "Tall oaks grow from little acorns."
     },
     {
       "id": 5,
-      "name": "charmeleon",
-      "hp": 58,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
+      "name": "maya",
+      "level": 70,
+      "url": "https://robohash.org/maya",
+      "bio": "Life is a question and how we live it is our answer."
     },
     {
       "id": 6,
-      "name": "charizard",
-      "hp": 78,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
+      "name": "reuben",
+      "level": 20,
+      "url": "https://robohash.org/reuben",
+      "bio": "now the rules well, so you can break them effectively."
     },
     {
       "id": 7,
-      "name": "squirtle",
-      "hp": 44,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
+      "name": "carmen",
+      "level": 60,
+      "url": "https://robohash.org/carmen",
+      "bio": "I have never in my life learned anything from any man who agreed with me."
     },
     {
-      "id": 8,
-      "name": "wartortle",
-      "hp": 59,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png"
+      "name": "itzel",
+      "level": 30,
+      "url": "https://robohash.org/itzel",
+      "bio": "Life would be tragic if it weren't funny.",
+      "id": 8
     },
     {
-      "id": 9,
-      "name": "blastoise",
-      "hp": 79,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
+      "name": "motun",
+      "level": "80",
+      "url": "https://robohash.org/motun",
+      "bio": "We have to live life with a sense of urgency so not a minute is wasted.",
+      "id": 9
     },
     {
-      "id": 10,
-      "name": "caterpie",
-      "hp": 45,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png"
+      "name": "laura",
+      "level": "20",
+      "url": "https://robohash.org/laura",
+      "bio": "Obstacles are those frightful things you see when you take your eyes off your goals.",
+      "id": 10
     },
     {
-      "id": 11,
-      "name": "metapod",
-      "hp": 50,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png"
-    },
-    {
-      "id": 12,
-      "name": "butterfree",
-      "hp": 60,
-      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
-      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+      "name": "alani",
+      "level": "30",
+      "url": "https://robohash.org/alani",
+      "bio": "Hello World.",
+      "id": 11
     }
   ]
 }

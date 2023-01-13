@@ -1,17 +1,17 @@
-import PokemonForm from './PokemonForm'
+import RobotForm from './RobotForm'
 import Filter from './Filter'
-import PokemonCollection from './PokemonCollection'
+import RobotCollection from './RobotCollection'
 
 function App() {
   return (
     <div className="App ui container">
-      <h1>Pokedex</h1>
+      <h1>Robodex</h1>
       <br />
-      <PokemonForm />
+      <RobotForm />
       <br />
       <Filter />
       <br />
-      <PokemonCollection />
+      <RobotCollection />
     </div>
   );
 }
