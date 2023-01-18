@@ -76,6 +76,20 @@
       "url": "https://robohash.org/alani",
       "bio": "Hello World.",
       "id": 11
+    },
+    {
+      "name": "cris p",
+      "level": "80",
+      "url": "https://robohash.org/crisp",
+      "bio": "I like cats",
+      "id": 12
+    },
+    {
+      "name": "wayne",
+      "level": "80",
+      "url": "https://robohash.org/wayne",
+      "bio": "Hello World.",
+      "id": 13
     }
   ]
 }
