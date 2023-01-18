@@ -1,7 +1,9 @@
 import { useState } from "react"
+import { useNavigate } from "react-router-dom";
 
 function RobotCard(props){
-
+    let navigate = useNavigate();
+    console.log(navigate)
     let [showImage, setShowImage] = useState(true)
 
     function toggleImage(){
@@ -25,6 +27,7 @@ function RobotCard(props){
                 </span>
             </div>
             </div>
+            <button className="ui mini button" onClick={() => {navigate(`/robots/${props.id}`)}}>Details</button>
         </div>
     )
 }

@@ -1,17 +1,19 @@
-import RobotForm from './RobotForm'
-import Filter from './Filter'
-import RobotCollection from './RobotCollection'
+import { Route, Routes } from "react-router-dom";
+import HomePage from "./HomePage";
+import Navbar from "./Navbar";
+import RobotsPage from "./RobotsPage";
+import ShowPage from "./ShowPage";
+
 
 function App() {
   return (
-    <div className="App ui container">
-      <h1>Robodex</h1>
-      <br />
-      <RobotForm />
-      <br />
-      <Filter />
-      <br />
-      <RobotCollection />
+    <div>
+      <Navbar/>
+      <Routes>
+        <Route path="/" element={<HomePage/>}/>
+        <Route path="/robots" element={<RobotsPage/>}/>
+        <Route path="/robots/:robotId" element={<ShowPage/>}/>
+      </Routes>
     </div>
   );
 }
